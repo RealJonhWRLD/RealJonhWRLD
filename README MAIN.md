@@ -3,7 +3,7 @@
 # Fala, eu sou o RealJonhWRLD 👋
 
 **Desenvolvedor Full Stack @ Infinity Solutions**  
-🎓 4º semestre de ADS • 🚀 Aprendo fazendo projetos
+🎓 4º semestre de ADS • 🚀
 
 > “Quanto mais longe você olhar para trás, mais à frente conseguirá ver.” — *Winston Churchill*
 
@@ -31,8 +31,7 @@
 
 ## 🧩 Projeto favorito
 **Gestor de Tarefas com validação JWT (jjwt)**  
-CRUD de tarefas, autenticação via token, filtros e boas práticas (DTOs, camadas, validação).  
-> *Se quiser, adiciono aqui o link do repositório e um GIF curto mostrando o fluxo.*
+CRUD de tarefas, autenticação via token, filtros e boas práticas (DTOs, camadas, validação). 
 
 ## 💬 Sobre mim
 - 💼 Full Stack na **Infinity Solutions**
