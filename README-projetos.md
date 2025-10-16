@@ -3,8 +3,7 @@
 # Fala, eu sou o RealJonhWRLD 👋
 
 **Desenvolvedor Full Stack @ Infinity Solutions**  
-🎓 4º semestre de ADS • 🚀 Aprendo fazendo projetos
-
+🎓 4º semestre de ADS • 🚀 
 > “Quanto mais longe você olhar para trás, mais à frente conseguirá ver.” — *Winston Churchill*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jp--damasceno-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jp-damasceno/)
@@ -14,7 +13,7 @@
 
 ---
 
-## 🚀 Destaques rápidos
+## 🚀 Destaques 
 - 🔐 **Projeto favorito:** Gestor de Tarefas com **validação JWT (jjwt)** — CRUD, autenticação, filtros e foco em **código limpo**.  
 - 💼 **Stack do dia a dia:** **Java + Spring Boot** no backend, **React** (+ **TypeScript**) no frontend.  
 - 🧭 **Prática > teoria:** evoluo construindo projetos reais e iterando.  
@@ -31,16 +30,14 @@
 ![Git](https://img.shields.io/badge/Git-Versioning-F05032?logo=git&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-Frontend-646CFF?logo=vite&logoColor=white&style=flat)
 
-## 🧩 Projetos em destaque
-> Adiciono os links assim que você enviar os repositórios 👇
+## 🧩 Projetos em destaque👇
 - **Gestor de Tarefas (Spring Boot + React + JWT)** — CRUD, filtros, DTOs, validação Bean, paginação.
 - **ERP Academia (Node/Express + React)** — mensalidades, planos, relatórios e dashboard financeiro.
 - **SmartERP (Java 21 + Spring Boot 3 + PostgreSQL)** — base modular para micro-serviços.
 
 ---
 
-## 🗺️ Roadmap de Projetos (para fazer / aprimorar)
-> Ideias pensadas para valorizar seu **portfólio** e sua **stack atual**. Cada item já vem com sugestão de nome de repositório.
+## 🗺️ Roadmap de Projetos
 
 ### 1) Backend Spring Boot (APIs Profissionais)
 - **Auth Service (jjwt-prime)** — login/refresh, RBAC, expiração, blacklist de tokens.  
@@ -68,23 +65,12 @@
 - **CI/CD Pro (github-actions-pro)** — pipelines com lint, testes, build, Docker e deploy.  
   _Tags:_ Actions, Docker
 
-### 4) Extras que brilham em entrevistas
-- **Feature Flags (spring-ff4j-demo)** — ligar/desligar recursos por ambiente.  
-  _Tags:_ Feature Flags
-- **Multitenancy (spring-multi-tenant)** — single codebase, múltiplos clientes (schema/row-based).  
-  _Tags:_ SaaS
-- **Clean Architecture (spring-clean-arch)** — camadas claras, DTOs, casos de uso, gateways.  
-  _Tags:_ Architecture
-
-> Quer que eu gere a **estrutura inicial** (backend + frontend) de algum desses? Posso entregar com README, scripts de `make`, Docker e Actions prontos.
-
 ---
 
-## 🧱 Seções que valorizam seu perfil
-- **Certificações & Estudos:** Alura | DIO | Udemy | Rocketseat (coloque cursos-chave).
-- **Artigos/Notas:** mini-posts sobre problemas que você resolveu.
-- **Hall de Conquistas:** PRs em open-source, desafios resolvidos, talks/mentorias.
-- **“Agora” (Now):** O que está aprendendo/praticando neste mês.
+## 💻Cursos
+- **CURSO.DEV** FullStack Felipe De Champs.
+- **B7WEB:** Frontend Bonieky Lacerda
+- **JAVA10X** Horacio Felipe.
 
 ---
 
@@ -105,10 +91,5 @@
 ---
 
 ## ✅ Checklist de melhoria contínua
-- [ ] Adicionar links reais dos projetos em destaque
-- [ ] Subir um GIF curto do Gestor de Tarefas (login + criar task) em `assets/`
-- [ ] Criar seção “Artigos/Notas” com 2 problemas resolvidos no trabalho
-- [ ] Ativar CI no principal projeto (lint + testes + build)
-- [ ] Adicionar “Contribuições Open Source” com 1 PR
 
 > Se curtiu algum projeto, deixa uma ⭐ e bora trocar ideia!
