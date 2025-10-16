@@ -37,36 +37,6 @@
 
 ---
 
-## 🗺️ Roadmap de Projetos
-
-### 1) Backend Spring Boot (APIs Profissionais)
-- **Auth Service (jjwt-prime)** — login/refresh, RBAC, expiração, blacklist de tokens.  
-  _Tags:_ Security, JWT, Testcontainers
-- **Files Service (spring-filebox)** — upload/download S3-like, validação MIME, antivírus (clamav).  
-  _Tags:_ Storage, Integration
-- **Mailing Service (spring-mailer-pro)** — templates Thymeleaf + eventos (registros/recuperação).  
-  _Tags:_ Email, Templates
-- **Payments Mock (spring-payments-sim)** — webhooks, assinaturas, faturas; contracts via OpenAPI.  
-  _Tags:_ Webhooks, OpenAPI
-
-### 2) Full Stack (React + Spring Boot)
-- **Tasks+ Kanban (kanban-spring-react)** — boards/colunas/cards, drag-n-drop, filtros e busca.  
-  _Tags:_ DnD, Pagination, Search
-- **Dashboard Analytics (spring-react-analytics)** — KPIs, gráficos (Recharts), filtros de período.  
-  _Tags:_ Charts, Caching
-- **URL Shortener (shorty-spring-react)** — encurtador com expiração, QRCode e rate limit.  
-  _Tags:_ Redis, Security
-
-### 3) Qualidade & DevOps
-- **Testes E2E (react-e2e-playwright)** — suite com Playwright (login, tasks, filtros, responsividade).  
-  _Tags:_ E2E, CI
-- **Observability Lab (obs-boot-lab)** — logs estruturados, tracing (OpenTelemetry), métricas Prometheus.  
-  _Tags:_ Observability
-- **CI/CD Pro (github-actions-pro)** — pipelines com lint, testes, build, Docker e deploy.  
-  _Tags:_ Actions, Docker
-
----
-
 ## 💻Cursos
 - **CURSO.DEV** FullStack Felipe De Champs.
 - **B7WEB:** Frontend Bonieky Lacerda
