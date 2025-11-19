@@ -15,9 +15,8 @@
 
 ## 🚀 Destaques 
 - 🔐 **Projeto favorito:** Gestor de Tarefas com **validação JWT (jjwt)** — CRUD, autenticação, filtros e foco em **código limpo**.  
-- 💼 **Stack do dia a dia:** **Java + Spring Boot** no backend, **React** (+ **TypeScript**) no frontend.  
-- 🧭 **Prática > teoria:** evoluo construindo projetos reais e iterando.  
-- 🏋️ **Vida fora do código:** academia e natação pra manter a mente afiada.
+- 💼 **Stack do dia a dia:** **Java + Spring Boot** no backend, **React** (+ **TypeScript**) no frontend.   
+- 🏋️ **Vida fora do código:** academia pra manter a mente afiada.
 
 ## 🧰 Toolbox
 ![Java](https://img.shields.io/badge/Java-21+-ED8B00?logo=openjdk&logoColor=white&style=flat)
